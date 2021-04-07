@@ -1,6 +1,7 @@
 <?php 
  fucntion test() {
-        echo "There!"
+       
   echo "Hello"
+  echo "There!"
  }
 ?>
